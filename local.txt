@@ -1,0 +1,6 @@
+present location of run : Desktop/projects/MERN notes project
+connect database by connecting mongoDB with current IP address
+cd server -> npm start
+cd client -> npm start
+
+localhost: 3000
